@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   const API_URL = "https://api.apilayer.com/exchangerates_data/latest?base=USD";
-  const API_KEY = "b6b6bfa7b4b5d5b150a86df8b5181b16";
+  const API_KEY = "";
 
   const amountInput = document.getElementById("amount");
   const fromCurrencySelect = document.getElementById("from-currency");
